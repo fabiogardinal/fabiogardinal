@@ -1,4 +1,4 @@
-- 👋 Hey, I’m Fábio! Or you can go by: Fabão. 
+- 👋 Hey, I’m Fábio!
 - 👀 I’m interested in music, games, food and tech.
 - 🌱 I’m currently learning Python and looking foward to become a Fullstack Dev in the future (but not a distant future lol)
 - 💞️ I’m looking to collaborate on new apps that can help people go through daily tasks and be more productive.
